@@ -16,4 +16,4 @@ tkinter - used to create a UI on python
 Challenges/what I have learned:
 
 - Utilise dictionaries to manage widget creations (rather than creating similar widgets by writing out the same code over and over again, use a dictionary to loop through and retrieve information)
-- Create a tkinter app in a class instead
+- Create a tkinter app in a class instead to encapsulate the code
